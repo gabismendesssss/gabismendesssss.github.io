@@ -38,3 +38,7 @@ img{
 .gale img :hover{
     transform: scale(1.05);
 }
+
+.contato a {
+    text-decoration: none;
+}
